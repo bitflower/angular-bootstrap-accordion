@@ -6,9 +6,9 @@
   ],
   "description": "Install Angular-UI Bootstrap Accordion without the overhead.",
   "dependencies": {
-    "transition": "https://github.com/angular-ui/bootstrap/tree/master/src/transition.js",
-    "collapse": "https://github.com/angular-ui/bootstrap/tree/master/src/collapse.js",
-    "accordion": "https://github.com/angular-ui/bootstrap/tree/master/src/accordion.js"
+    "transition": "https://github.com/angular-ui/bootstrap/tree/master/src/transition/transition.js",
+    "collapse": "https://github.com/angular-ui/bootstrap/tree/master/src/collapse/collapse.js",
+    "accordion": "https://github.com/angular-ui/bootstrap/tree/master/src/accordion/accordion.js"
   },
   "keywords": [
     "angular",
