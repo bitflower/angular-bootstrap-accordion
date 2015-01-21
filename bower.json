@@ -1,0 +1,29 @@
+{
+  "name": "angular-bootstrap-accordion",
+  "version": "1.0.0",
+  "authors": [
+    "Matthias Max <matthias.max@bitflower.net>"
+  ],
+  "description": "Install Angular-UI Bootstrap Accordion without the overhead.",
+  "dependencies": {
+    "transition": "https://github.com/angular-ui/bootstrap/tree/master/src/transition.git",
+    "collapse": "https://github.com/angular-ui/bootstrap/tree/master/src/collapse.git",
+    "accordion": "https://github.com/angular-ui/bootstrap/tree/master/src/accordion.git"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "ui",
+    "accordion",
+    "collapse"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.bitflower.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
