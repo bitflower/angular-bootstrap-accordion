@@ -1,0 +1,30 @@
+{
+  "name": "angular-bootstrap-accordion",
+  "version": "1.0.0",
+  "description": "AngularJS UI Accordion without the overhead.",
+  "main": "angular-ui-accordion.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitflower/angular-bootstrap-accordion.git"
+  },
+  "keywords": [
+    "angular",
+    "ui",
+    "accordion",
+    "bootstrap"
+  ],
+  "author": "Matthias Max",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitflower/angular-bootstrap-accordion/issues"
+  },
+  "homepage": "https://github.com/bitflower/angular-bootstrap-accordion"
+}

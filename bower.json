@@ -4,12 +4,8 @@
   "authors": [
     "Matthias Max <matthias.max@bitflower.net>"
   ],
+  "main": "build/angular-bootstrap-accordion.min.js",
   "description": "Install Angular-UI Bootstrap Accordion without the overhead.",
-  "dependencies": {
-    "transition": "https://github.com/angular-ui/bootstrap/tree/master/src/transition/transition.js",
-    "collapse": "https://github.com/angular-ui/bootstrap/tree/master/src/collapse/collapse.js",
-    "accordion": "https://github.com/angular-ui/bootstrap/tree/master/src/accordion/accordion.js"
-  },
   "keywords": [
     "angular",
     "bootstrap",
