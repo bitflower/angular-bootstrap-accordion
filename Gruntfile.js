@@ -8,7 +8,7 @@ module.exports = function(grunt) {
         banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
       },
       build: {
-        src: ['src/transistion/transition.js', 'src/collapse/collapse.js', 'src/accordion/accordion.js'],
+        src: ['src/transition/transition.js', 'src/collapse/collapse.js', 'src/accordion/accordion.js'],
         dest: 'build/<%= pkg.name %>.min.js'
       }
     }
